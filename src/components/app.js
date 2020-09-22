@@ -13,7 +13,7 @@ import { About } from './About';
 import Sidebar from './Sidebar';
 import  { Order }  from './Order';
 
-import { FooterBar } from './Footer';
+
 
 
 
@@ -41,7 +41,7 @@ function App() {
          
         </Switch>
       </Router>
-      <FooterBar />
+      
       
     </React.Fragment>
 
